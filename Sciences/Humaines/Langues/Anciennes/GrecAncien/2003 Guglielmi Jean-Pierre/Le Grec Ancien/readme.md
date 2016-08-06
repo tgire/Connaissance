@@ -1,3 +1,3 @@
-## Le grec ancien (2003)
+# Le grec ancien (2003)
 
-# Collection sans peine (Méthode assimil)
+## Collection sans peine (Méthode assimil)
