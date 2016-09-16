@@ -1,3 +1,5 @@
+Hyponyme
+
 Etymologie
 
 Grec ancien
