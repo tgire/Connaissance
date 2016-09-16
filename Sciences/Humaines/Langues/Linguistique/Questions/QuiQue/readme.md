@@ -53,13 +53,15 @@ On peut considérer les formes suivantes qui entretiennent la même structure.
 
 (La musculateur de) x, qui frappe y, (est impressionnante.)
 
-ici qui désigne le premier argument.
+ici, "qui" désigne le premier argument.
 
 - y, que x frappe, (demande qu'on arrête le combat).
 
  (J'entends les cris de) y, que frappe x.
 
  Je vois toujours y, que x frappe.
+
+ Ici, "que" désigne le deuxième argument.
 
 Les formes de mauvais usage suivantes forment un ensemble très régulier:
 
