@@ -21,13 +21,13 @@ Si l'on sait que l'on a affaire à l'action de frapper et que l'on veut interrog
 
 1. Qui frappe [y] ? (= que vaut le premier argument)
 
-hypothèse naturelle s'en déduisant: "Qui" permet d'obtenir de demander la valeur du premier argument connaissant ou non le deuxième.
+hypothèse naturelle s'en déduisant: "Qui" permet de demander la valeur du premier argument connaissant ou non le deuxième.
 
 2. Que frappe x ? (= que vaut le deuxième argument)
 
 hypothèse naturelle s'en déduisant: "Que" permet d'obtenir de demander la valeur du deuxième argument connaissant le premier argument.
 
-3. Qui x frappe-t-il ? (= que vaut le deusième argument)
+3. Qui x frappe-t-il ? (= que vaut le deuxième argument)
 
 Invalidation des deux premières hypothèses: "Qui" permet d'obtenir une personne et la détermination de quel argument il s'agit est codé par le reste.
 
@@ -48,19 +48,29 @@ On constate la structure supérieure de ces 4 dernières formes. (Je laisse inte
 On peut considérer les formes suivantes qui entretiennent la même structure.
 
 8. x, qui frappe y, (n'y va pas de main morte.)
+
 (Je connais) x, qui frappe y.
+
 (La musculateur de) x, qui frappe y, (est impressionnante.)
 
 ici qui désigne le premier argument.
 
-9. y, que x frappe, (demande qu'on arrête le combat). (J'entends les cris de) y, que frappe x. Je vois toujours y, que x frappe.
+9. y, que x frappe, (demande qu'on arrête le combat).
+
+ (J'entends les cris de) y, que frappe x.
+
+ Je vois toujours y, que x frappe.
 
 Les formes de mauvais usage suivantes forment un ensemble très régulier:
 
 c'est qui qui frappe y ? (c'est la personne x qui frappe y)
+
 c'est qui que frappe x ? (c'est la personne y que frappe x)
+
 c'est quoi qui frappe y ? (c'est la chose x qui frappe y)
+
 c'est quoi que frappe x ? (c'est la chose y que frappe x)
+
 
 Il est tentant de penser que les formes interrogatives pourraient dériver logiquement des formes relatives dans les esprits pratiquant ce mauvais usage. On peut aussi se demander si le mauvaise usage n'a pas antérieur et voir l'usage correct comme issu de cette situation.
 
@@ -69,8 +79,11 @@ Si l'on voulait pousser plus loin la régularité trouvée dans cette origine fi
 On pourrait ansi recourrir à la pratique suivante.
 
 qui qui frappe y ? (Quelle personne frappe y ?)
+
 qui que x frappe ? (Quelle personne est frappée par x ?)
+
 que qui frappe y ? (Quelle chose frappe y ?)
+
 que que frappe x ? (Quelle chose est frappée par x ?)
 
 On note cependant que l'usage correct permet de former
