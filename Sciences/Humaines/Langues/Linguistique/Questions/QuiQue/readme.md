@@ -19,35 +19,35 @@ Préférons aux distinctions grammaticales de sujet et d'objet, les désignation
 
 Si l'on sait que l'on a affaire à l'action de frapper et que l'on veut interroger les arguments, on peut considérer les énoncés suivants:
 
-1 Qui frappe [y] ? (= que vaut le premier argument)
+- Qui frappe [y] ? (= que vaut le premier argument)
 
 hypothèse naturelle s'en déduisant: "Qui" permet de demander la valeur du premier argument connaissant ou non le deuxième.
 
-2 Que frappe x ? (= que vaut le deuxième argument)
+- Que frappe x ? (= que vaut le deuxième argument)
 
 hypothèse naturelle s'en déduisant: "Que" permet d'obtenir de demander la valeur du deuxième argument connaissant le premier argument.
 
-1. Qui x frappe-t-il ? (= que vaut le deuxième argument)
+- Qui x frappe-t-il ? (= que vaut le deuxième argument)
 
 Invalidation des deux premières hypothèses: "Qui" permet d'obtenir une personne et la détermination de quel argument il s'agit est codé par le reste.
 
-1. Qu'est-ce qui frappe y ?
+- Qu'est-ce qui frappe y ?
 
 Invalidation de la dernière hypothèse: "qui", ici, permet d'obtenir une chose et non une personne et qui semble effectivement désigner le premier argument. Cependant, on peut plutôt considérer que l'interrogation est portée par le qu' (que). Cet exemple incite à étudier les compositions analogues à celle ci.
 
-1. Qu'est-ce que frappe x ?
+- Qu'est-ce que frappe x ?
 
 Semble équivalent à que frappe x avec affirmation d'une majoration de certitude que x frappe)
 
-1. Qui est-ce que frappe x ?
+- Qui est-ce que frappe x ?
 
-1. Qui est-ce qui frappe y ?
+- Qui est-ce qui frappe y ?
 
 On constate la structure supérieure de ces 4 dernières formes. (Je laisse intentionnellement de côté les désignations pronoms relatifs et pronom interrogatifs pour le moment).
 
 On peut considérer les formes suivantes qui entretiennent la même structure.
 
-1. x, qui frappe y, (n'y va pas de main morte.)
+- x, qui frappe y, (n'y va pas de main morte.)
 
 (Je connais) x, qui frappe y.
 
@@ -55,7 +55,7 @@ On peut considérer les formes suivantes qui entretiennent la même structure.
 
 ici qui désigne le premier argument.
 
-1. y, que x frappe, (demande qu'on arrête le combat).
+- y, que x frappe, (demande qu'on arrête le combat).
 
  (J'entends les cris de) y, que frappe x.
 
