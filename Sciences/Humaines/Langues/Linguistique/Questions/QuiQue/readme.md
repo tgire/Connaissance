@@ -49,19 +49,19 @@ On peut considérer les formes suivantes qui entretiennent la même structure.
 
 - x, qui frappe y, (n'y va pas de main morte.)
 
-(Je connais) x, qui frappe y.
+  (Je connais) x, qui frappe y.
 
-(La musculateur de) x, qui frappe y, (est impressionnante.)
+  (La musculateur de) x, qui frappe y, (est impressionnante.)
 
 ici, "qui" désigne le premier argument.
 
 - y, que x frappe, (demande qu'on arrête le combat).
 
- (J'entends les cris de) y, que frappe x.
+  (J'entends les cris de) y, que frappe x.
 
- Je vois toujours y, que x frappe.
+  Je vois toujours y, que x frappe.
 
- Ici, "que" désigne le deuxième argument.
+Ici, "que" désigne le deuxième argument.
 
 Les formes de mauvais usage suivantes forment un ensemble très régulier:
 
