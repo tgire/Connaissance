@@ -10,7 +10,7 @@ frapper accepte un ou deux arguments et l'énoncé avec deux arguments n'est pas
 
 Frapper(x,-) est exprimé par "x frappe [quelquechose]".
 
-Frapper(-,y) est exprimé par "y est frappé [par quelquechose]" ou "on frappe quelquechose".
+Frapper(-,y) est exprimé par "y est frappé [par quelquechose]" ou "on frappe y".
 
 Frapper(x,y) x frappe y.
 
