@@ -19,11 +19,11 @@ Préférons aux distinctions grammaticales de sujet et d'objet, les désignation
 
 Si l'on sait que l'on a affaire à l'action de frapper et que l'on veut interroger les arguments, on peut considérer les énoncés suivants:
 
-1. Qui frappe [y] ? (= que vaut le premier argument)
+1 Qui frappe [y] ? (= que vaut le premier argument)
 
 hypothèse naturelle s'en déduisant: "Qui" permet de demander la valeur du premier argument connaissant ou non le deuxième.
 
-1. Que frappe x ? (= que vaut le deuxième argument)
+2 Que frappe x ? (= que vaut le deuxième argument)
 
 hypothèse naturelle s'en déduisant: "Que" permet d'obtenir de demander la valeur du deuxième argument connaissant le premier argument.
 
