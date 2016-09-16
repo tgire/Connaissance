@@ -3,13 +3,17 @@ Il me semble qu'en français, certains usages des mots "qui" et "que" hésitent 
 L'indistinction est d'ailleurs déjà présente dans le sens à donner aux mots sujet et objet. Qui sont justement ceux utilisés pour la grammaire (dont on va donc essayer de se passer).
 
 Exemple:
-Considérons l'action de frapper. 
+
+Considérons l'action de frapper.
 
 frapper accepte un ou deux arguments et l'énoncé avec deux arguments n'est pas symétrique.
 
 Frapper(x,-) est exprimé par "x frappe [quelquechose]".
+
 Frapper(-,y) est exprimé par "y est frappé [par quelquechose]" ou "on frappe quelquechose".
+
 Frapper(x,y) x frappe y.
+
 
 Préférons aux distinctions grammaticales de sujet et d'objet, les désignations de premier et deuxième argument suivant ce qui précède dans le but de ne pas ajouter pour le moment d'interprétation sémantique qui accompagnerait l'usage grammatical habituel.
 
