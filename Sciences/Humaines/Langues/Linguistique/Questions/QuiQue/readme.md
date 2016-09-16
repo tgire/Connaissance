@@ -1,9 +1,9 @@
-Il me semble q'en français, certains usages des mots "qui" et "que" hésitent entre une discrémination entre agissant et subissant ou entre personne et chose.
+Il me semble qu'en français, certains usages des mots "qui" et "que" hésitent entre une discrémination entre agissant et subissant ou entre personne et chose.
 
 L'indistinction est d'ailleurs déjà présente dans le sens à donner aux mots sujet et objet. Qui sont justement ceux utilisés pour la grammaire (dont on va donc essayer de se passer).
 
 Exemple:
-Considérons l'action de frapper. Quand on forme un énoncé
+Considérons l'action de frapper. 
 
 frapper accepte un ou deux arguments et l'énoncé avec deux arguments n'est pas symétrique.
 
