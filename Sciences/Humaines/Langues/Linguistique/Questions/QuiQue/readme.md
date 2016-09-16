@@ -76,9 +76,9 @@ c'est quoi que frappe x ? (c'est la chose y que frappe x)
 
 Il est tentant de penser que les formes interrogatives pourraient dériver logiquement des formes relatives pour les esprits pratiquant ce mauvais usage. On peut aussi se demander si le mauvaise usage n'a pas été antérieur et voir l'usage correct comme issu de cette situation.
 
-Si l'on voulait pousser plus loin la régularité trouvée dans cette origine hypothétique, on pourrait décider de remplacer l'emploi de quoi par que et de ce passer de la tournure démonstrative "c'est" qui n'est peut être présente que pour s'assurer de la présences d'un verbe.
+Si l'on voulait pousser plus loin la régularité trouvée dans cette origine hypothétique, on pourrait décider de remplacer l'emploi de quoi par que et de ce passer de la tournure démonstrative "c'est" qui n'est peut être présente que pour s'assurer de la présence d'un verbe.
 
-On pourrait ansi recourrir à la pratique suivante.
+On pourrait ansi recourrir à la pratique suivante:
 
 qui qui frappe y ? (Quelle personne frappe y ?)
 
