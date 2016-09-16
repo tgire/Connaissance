@@ -37,7 +37,7 @@ Invalidation de la dernière hypothèse: "qui", ici, permet d'obtenir une chose 
 
 - Qu'est-ce que frappe x ?
 
-Semble équivalent à que frappe x avec affirmation d'une majoration de certitude que x frappe)
+Semble équivalent à que frappe x avec affirmation d'une majoration de certitude que x frappe quelquechose)
 
 - Qui est-ce que frappe x ?
 
