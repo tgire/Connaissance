@@ -95,7 +95,8 @@ On note cependant que l'usage correct permet de former
 On pourrait souhaiter pouvoir s'enquérir d'un argument d'un énoncé frapper sans devoir trancher sur la nature personne objet. On pourrait utiliser un pronom interrogatif indiscriminant par exemple quo.
 
 quo qui frappe y ? signifierait répondez à la question "qui qui frappe y ?" ou "que qui frappe y ?"" (vous qui connaissez la réponse à l'une de ces questions)
-quo que frappe y ?
+
+De même, quo que frappe y ?
 
 On peut aussi se demander si en français les questions semblent avoir pour objectif la détermination d'un seul élément inconnu ou s'il existe des formes de questions portant sur une multiplicatio multiple.
 En l'occurence, si l'on veut s'enquérir des deux arguments à la fois peut on faire autrement que procéder à la juxtaposition de propositions indépendantes.
