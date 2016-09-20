@@ -160,5 +160,4 @@ et si la determination de la nature chose ou personne n'intéresse pas :
 
 qui que frappe ? (= qui est-ce ou qu'est-ce qui frappe quelqu'un ou quelque chose et qui est ce quelqu'un ou ce quelquechose ?)
 
-On remarque que qui que frappe ? et que qui frappe ? deviennent équivalent ce qui est une bonne propriété pour une langue qui veut fabriquer son expression sur des mises à jour la pensée
-dans des temps les plus courts (tendance supposée précédemment en français).
+On remarque que qui que frappe ? et que qui frappe ? deviennent équivalent ce qui est une bonne propriété pour une langue qui veut fabriquer son expression sur des mises à jour de la pensée dans des temps les plus courts possibles (tendance supposée précédemment en français).
