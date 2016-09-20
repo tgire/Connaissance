@@ -150,7 +150,7 @@ queu-eu pour queu
 
 Ces propositions phonologiques me semblant non prioritaires à mon propos.
 
-Ces réductions faites et les formes doubles précédentes étant proscrites, on pouurrait introduire un  nouvel usage des formes doubles:
+Ces réductions faites et les formes doubles précédentes étant proscrites, on pourrait introduire un  nouvel usage des formes doubles:
 
 quii quei frappe ? (= qui frappe quelqu'un et qui est ce quelqu'un ?) réponses possibles x frappe y, x frappe, y est frappé. (neousages possible x qui frappe, y que frappe).
 
