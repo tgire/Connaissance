@@ -136,7 +136,7 @@ que que frappe x =  quee frappe x ?
  qui est-ce que frappe x ? se contracte en qui x frappe-t-il ?
 
  Mais cela permet de former la critique suivante:
- la forme contracte fait disparaitre la détermination principale dans le groupe interrogatif pour la faire émerger par une structure complexe dans la fin de la phrase. Il semblerait naturel d'attendre une mesure (calculable) permettant de justifier l'emploi d'une telle structure. Le fait de devoir attendre la fin de la phrase pour interpréter correctement le mot qui dans cet énoncé ne m'apparait pas comme une pratique régulière du français. Le français semble plutôt faire le choix d'essayer de permettre la constitution d'un début de phrase avant que de savoir comment le composer avec une fin de phrase. Qu'il en aille de la création de phrase ou de sa réception.
+ la forme contracte fait disparaitre la détermination principale dans le groupe interrogatif pour la faire émerger par une structure complexe dans la fin de la phrase. Il semblerait naturel d'attendre une mesure (calculable) permettant de justifier l'emploi d'une telle structure. Le fait de devoir attendre la fin de la phrase, pour interpréter correctement le mot qui dans cet énoncé, ne m'apparait pas comme une pratique régulière du français. Le français semble plutôt faire le choix d'essayer de permettre la constitution d'un début de phrase avant que de savoir comment le composer avec une fin de phrase. Qu'il en aille de la création de phrase ou de sa réception.
 
  L'inconvénient est finalement surmontable puisqu'il s'appuie sur l'utilisation de nouveaux mots. Il reste à choisir la pronociation de ces nouveaux mots pour qu'elle reste dans le domaines des distinctions phonologiques habituelles du français. Propositions:
 
