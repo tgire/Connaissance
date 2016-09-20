@@ -43,7 +43,7 @@ Semble équivalent à que frappe x avec affirmation d'une majoration de certitud
 
 - Qui est-ce qui frappe y ?
 
-On constate la structure supérieure de ces 4 dernières formes. (Je laisse intentionnellement de côté les désignations pronoms relatifs et pronom interrogatifs pour le moment).
+On constate la structure supérieure de ces 4 dernières formes. (Je laisse intentionnellement de côté les désignations pronoms relatifs et pronom interrogatifs pour le moment). Je suis tenté de penser les exemples précédents comme des formes contractes de ces quatre formes.
 
 On peut considérer les formes suivantes qui entretiennent la même structure.
 
