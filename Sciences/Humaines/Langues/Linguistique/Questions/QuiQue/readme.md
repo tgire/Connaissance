@@ -51,7 +51,7 @@ On peut considérer les formes suivantes qui entretiennent la même structure.
 
   (Je connais) x, qui frappe y.
 
-  (La musculateur de) x, qui frappe y, (est impressionnante.)
+  (La musculature de) x, qui frappe y, (est impressionnante.)
 
 ici, "qui" désigne le premier argument.
 
