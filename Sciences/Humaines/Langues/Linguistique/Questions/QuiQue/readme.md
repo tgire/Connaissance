@@ -90,4 +90,74 @@ que que frappe x ? (Quelle chose est frappée par x ?)
 
 On note cependant que l'usage correct permet de former
 "Quoi que frappe x, ..." comme forme contracte de
-"(qu'importe) Quoi (que soit ce) que frappe x,...""
+"(qu'importe) Quoi (que soit ce) que frappe x,..."
+
+On pourrait souhaiter pouvoir s'enquérir d'un argument d'un énoncé frapper sans devoir trancher sur la nature personne objet. On pourrait utiliser un pronom interrogatif indiscriminant par exemple quo.
+
+quo qui frappe y ? signifierait répondez à la question "qui qui frappe y ?" ou "que qui frappe y ?"" (vous qui connaissez la réponse à l'une de ces questions)
+quo que frappe y ?
+
+On peut aussi se demander si en français les questions semblent avoir pour objectif la détermination d'un seul élément inconnu ou s'il existe des formes de questions portant sur une multiplicatio multiple.
+En l'occurence, si l'on veut s'enquérir des deux arguments à la fois peut on faire autrement que procéder à la juxtaposition de propositions indépendantes.
+
+Qui est-ce qui frappe et qui est-ce qui est frappé ?
+En neolangage, qui qui frappe et qui que frappe ?
+
+Si l'on désirait permettre à la néolangue de demander les deux arguments, on voit que la construction choisi pour préciser la nature (inspirée du français existant) rend impossible la juxtaposition de deux pronoms relatifs associés à chacune des questions.
+
+On peut tout de même proposer quelque chose en décidant que le premier pronom est le pronom interrogatif alors que les suivants sont des pronoms relatifs. On pourrait alors demander les deux arguments par l'énoncé suivant:
+
+quo qui que frappe ? Quels sont les deux arguments ?
+
+qui qui que frappe ? Quels sont les deux arguments ? (étant entendu que ce sont deux personnes)
+
+que qui que frappe ?
+
+Devant la complexité de telle structure, on pourrait désirer au contraire d'établir une hierarchie (qui me semble bien naturelle) entre les déterminations 1er ou deuxième argument et chose ou personne, en considdérant que la première détermination est plus importante. Auquel cas on pourrait intégrer la nature apportée usuellement par le pronom interrogatif en une décinence pour le pronom relatif. En vérifiant un ordre de priorité des déterminations suivant: du plus important-le plus radical vers le moins important-le plus "désinant".
+
+Cela aurait l'avantage de supprimer les articles interrogatifs qui que et de rendre caduc l'innovation quo.
+
+On aurait les correspondances suivantes:
+
+quo qui frappe y (= qui-est-ce que qui frappe y ou qu'est-ce qui frappe y?) donne qui frappe y ? (coincide partiellement avec la forme existante tout en produisant pour l'esprit d'extrapolation la personnification naturelle des choses agissantes)
+
+qui qui frappe y = quii frappe y ?
+
+que qui frappe y = quie frappe y ?
+
+qui que frappe x  = quei frappe x?
+
+que que frappe x =  quee frappe x ?
+
+ L'inconvénient majeur est que cela prend le contre pied de la pratique existante car l'énoncé correct
+ qui est-ce qui frappe y ? se contracte en qui frappe y ?
+ alors que
+ qui est-ce que frappe x ? se contracte en qui x frappe-t-il ?
+
+ Mais ce qui permet de former la critique suivante:
+ la forme contracte fait disparaitre la détermination principale dans le groupe interrogatif pour la faire émerger par une structure complexe dans la fin de la phrase. Il semblerait naturel d'attendre une mesure (calculable) permettant de justifier l'emploi d'une telle structure. Le fait de devoir attendre la fin de la phrase pour interpréter correctement le mot qui dans cet énoncé ne m'apparait pas comme une pratique régulière du français. Le français semble plutôt faire le choix d'essayer de permettre la constitution d'un début de phrase avant que de savoir comment le composer avec une fin de phrase. Qu'il en aille de la création de phrase ou de sa réception.
+
+ L'inconvénient est finalement surmontable puisqu'il s'appuie sur l'utilisation de nouveaux mots. Il reste à choisir la pronociation de ces nouveaux mots pour qu'elle reste dans le domaines des distinctions phonologiques habituelles du français. Propositions:
+
+qui-i pour quii
+
+qui-eu pour quie
+
+queu-i pour quei
+
+queu-eu pour queu
+
+Ces propositions phonologiques me semblant non prioritaires à mon propos.
+
+Ces réductions faites et les formes doubles précédentes étant proscrites, on pouurrait introduire un  nouvel usage des formes doubles:
+
+quii quei frappe ? (= qui frappe quelqu'un et qui est ce quelqu'un ?) réponses possibles x frappe y, x frappe, y est frappé. (neousages possible x qui frappe, y que frappe).
+
+quie quee frappe ? (= qu'est ce qui frappe quelquechose et qu'est-ce que ce quelquechose ?)
+
+et si la determination de la nature chose ou personne n'intéresse pas :
+
+qui que frappe ? (= qui est-ce ou qu'est-ce qui frappe quelqu'un ou quelque chose et qui est ce quelqu'un ou ce quelquechose ?)
+
+On remarque que qui que frappe ? et que qui frappe ? deviennent équivalent ce qui est une bonne propriété pour une langue qui veut fabriquer son expression sur des mises à jour la pensée
+dans des temps les plus courts (tendance supposée précédemment en français).
