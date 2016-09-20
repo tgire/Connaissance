@@ -98,7 +98,7 @@ quo qui frappe y ? signifierait répondez à la question "qui qui frappe y ?" ou
 
 De même, quo que frappe y ?
 
-On peut aussi se demander si en français les questions semblent avoir pour objectif la détermination d'un seul élément inconnu ou s'il existe des formes de questions portant sur une multiplicatio multiple.
+On peut aussi se demander si en français les questions semblent avoir pour objectif la détermination d'un seul élément inconnu ou s'il existe des formes de questions portant sur une détermination multiple.
 En l'occurence, si l'on veut s'enquérir des deux arguments à la fois peut on faire autrement que procéder à la juxtaposition de propositions indépendantes.
 
 Qui est-ce qui frappe et qui est-ce qui est frappé ?
