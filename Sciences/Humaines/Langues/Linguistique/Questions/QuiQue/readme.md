@@ -2,6 +2,14 @@ Il me semble qu'en français, certains usages des mots "qui" et "que" hésitent 
 
 L'indistinction est d'ailleurs déjà présente dans le sens à donner aux mots sujet et objet. Qui sont justement ceux utilisés pour la grammaire (dont on va donc essayer de se passer).
 
+Génèse de ce questionnement:
+
+Les énoncés "qui frappes-tu ?" et "qui te frappe ?" sont bien disctints.
+
+Si le pronom personnel et remplacer par un nom, l'énoncé devient ambigü:
+
+Qui frappe Xavier ? On ne sait pas si on demande l'identité de la personne que frappe Xavier ou si l'on demande l'identité de la personne que Xavier frappe.
+
 Exemple:
 
 Considérons l'action de frapper.
@@ -161,3 +169,8 @@ et si la determination de la nature chose ou personne n'intéresse pas :
 qui que frappe ? (= qui est-ce ou qu'est-ce qui frappe quelqu'un ou quelque chose et qui est ce quelqu'un ou ce quelquechose ?)
 
 On remarque que qui que frappe ? et que qui frappe ? deviennent équivalent ce qui est une bonne propriété pour une langue qui veut fabriquer son expression sur des mises à jour de la pensée dans des temps les plus courts possibles (tendance supposée précédemment en français).
+
+L'ambiguité soulevée en début d'exposé n'est plus avec ce nouvelle usage. Les deux phrases deviennent:
+
+que frappe Xavier (quelle personne ou quelchoe Xavier frappe-t-il ?)
+qui frappe Xavier (quelle personne ou chose frappe Xavier ?)
