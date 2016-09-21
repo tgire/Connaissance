@@ -21,7 +21,9 @@ est supposée impossible ici. Je perçois tout à fait le caractère problémati
 
 Le jugement peut se spécialiser en jugement de valeur lorsqu'il permet l'indexation des préférences relativement à une référence neutre. On peut alors distinguer pensées valorisées et pensées dévalorisées.
 
-Choisissons pour acception du terme conscience un lieu d'un ensemble de pensées et de possibilités des activtés possibles sur les pensées définies juste avant.
+Todo liste:
+
+Choisissons pour acception du terme conscience un lieu d'un ensemble de pensées et des activtés définies juste avant.
 
 Penser, en plus de l'activité, les états de la conscience, c'est à dire à un instant donné quelle structure peut-elle avoir.
 
