@@ -6,7 +6,7 @@ Génèse de ce questionnement:
 
 Les énoncés "qui frappes-tu ?" et "qui te frappe ?" sont bien disctints.
 
-Si le pronom personnel et remplacer par un nom, l'énoncé devient ambigü:
+Si le pronom personnel est remplacé par un nom, l'énoncé devient ambigü:
 
 Qui frappe Xavier ? On ne sait pas si on demande l'identité de la personne que frappe Xavier ou si l'on demande l'identité de la personne que Xavier frappe.
 
